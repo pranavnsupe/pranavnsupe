@@ -19,7 +19,7 @@ Improving code scalability, backend architecture, and contributing effectively t
 Java, DSA, Full-Stack Development, REST APIs, SQL/MySQL, Git/GitHub, and software engineering best practices.
 
 📫 **How to reach me:**  
-📧 Email: your-email@example.com  
+📧 Email: pranavnsupe@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/pranav-supe
 
 😄 **Pronouns:**  

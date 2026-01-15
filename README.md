@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Pranav Supe
 **Full-Stack Developer | Java, DSA & MERN Passionate about clean code, APIs & problem-solving Computer Engineering student.**
 
-Email Me 👉 ✉️ **pranavnsupe@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 
 - 🔭 **I’m currently working on:**  
 Full-stack web applications using JavaScript, Node.js, Express, and MySQL, along with strengthening my problem-solving skills in Java and Data Structures.
@@ -19,7 +19,7 @@ Improving code scalability, backend architecture, and contributing effectively t
 Java, DSA, Full-Stack Development, REST APIs, SQL/MySQL, Git/GitHub, and software engineering best practices.
 
 📫 **How to reach me:**  
-📧 Email: pranavnsupe@gmail.com  
+  
 🔗 LinkedIn: https://www.linkedin.com/in/pranav-supe
 
 😄 **Pronouns:**  
